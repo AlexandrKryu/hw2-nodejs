@@ -1,0 +1,15 @@
+{
+  "name": "alex_kryu_hw2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "alexandr kryuchkov",
+  "license": "ISC",
+  "dependencies": {
+    "unique-names-generator": "^4.7.1",
+    "unique-username-generator": "^1.2.0"
+  }
+}
